@@ -1,6 +1,6 @@
 ---
 title: 
-date: {{ .Date }}
+date: 
 tags: []
 series: []
 featured: true
